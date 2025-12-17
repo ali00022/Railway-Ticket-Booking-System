@@ -17,11 +17,8 @@ Interactive Menu System: Easy-to-use command-line interface with clear navigatio
 
 🗑️ Cancellation System: Allows users to cancel bookings. Automatically handles foreign key constraints to clean up linked add-ons before deleting the ticket.
 
-🛠️ Tech Stack
-Language: Java (JDK 21+)
-
-Database: PostgreSQL
-
-Connectivity: JDBC (Java Database Connectivity)
-
-Architecture: DAO Design Pattern
+🛠️ Tech Stack:
+    Language: Java (JDK 21+)
+    Database: PostgreSQL
+    Connectivity: JDBC (Java Database Connectivity)
+    Architecture: DAO Design Pattern
