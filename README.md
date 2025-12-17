@@ -1,8 +1,5 @@
-Here is a professional README.md file for your project. You can copy and paste this directly into GitHub.
 
-I have formatted it to highlight the Features, Database Setup, and the Commands needed to run it.
-
-🚆 Indian Railways Booking System
+# 🚆 Indian Railways Booking System
 A robust, console-based Railway Reservation System built using Java and PostgreSQL. This project implements the DAO (Data Access Object) design pattern to ensure clean separation between the user interface and database logic. It features transaction management, dynamic database querying, and a user-friendly CLI menu.
 
 ✨ Features
